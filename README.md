@@ -13,11 +13,20 @@ In my solution to this exercise, I have followed this logic:
 
   2. Write the roman numeral n that you found and subtract its value v from x:
   
-    **x = x - v**
+    x = x - v
 
   3. Repeat stages 1 and 2 until you get zero result of x.
+  
+  ### Example: X = 36
 
-    ![image](https://user-images.githubusercontent.com/79663457/134008795-02e510a5-ddbb-4f69-a3d0-4ced5d827fdb.png)
+| Iteration #  | Decimal number (x) | Highest decimal value (v)	|  Highest roman numeral (n)	| Temporary result |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1	| 36	| 10	| X	| X |
+| 2	| 26	| 10	| X	| XX |
+| 3	| 16	| 10	| X	| XXX |
+| 4	| 6	|  5	| V	| XXXV |
+| 5	| 1	|  1	| I	| XXXVI |
+   
 
   4. Fix the generated number to replace values repeated over 3 times by the appopriate roman numerals, making the result in proper accordance with the writing standards. Ex:      replaces "IIII" by "IV", "VIIII" by "IX" and so forth. 
 
