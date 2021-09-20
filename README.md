@@ -31,4 +31,4 @@ In my solution to this exercise, I have followed this logic:
   4. Fix the generated number to replace values repeated over 3 times by the appopriate roman numerals, making the result in proper accordance with the writing standards. Ex:      replaces "IIII" by "IV", "VIIII" by "IX" and so forth. 
 
 
-This may not be the most efficient solution to this problem yet. But it can really put your brain to work!
+This may not be the most efficient solution to this problem yet. But it has really put my brain to work!
