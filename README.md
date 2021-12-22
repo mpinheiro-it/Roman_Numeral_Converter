@@ -1,6 +1,11 @@
 # Roman_Numeral_Converter
 
+**update 22/12/2021**
+
+Created a simple web app using HTML / CSS / JS in order to demontrate this.
+
 ![image](https://user-images.githubusercontent.com/79663457/134006691-59181b2a-c551-4770-845a-37adde06f7bf.png)
+
 
 This is a very interesting exercise I've completed in the FreeCodeCamp Javascript Algorithms and Data Structures course. It involves creating a function that converts a given number to a roman numeral. This is challenging not because the coding is difficult, but rather because the logic of the conversion can be very tricky. 
 
