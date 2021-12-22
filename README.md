@@ -2,7 +2,8 @@
 
 ** // update 22/12/2021 // **
 
-// Created a simple web app using HTML / CSS / JS in order to demontrate this. //
+//  Created a simple web app using HTML / CSS / JS in order to demontrate this. I have also added some more logic to perform the opposite conversion (roman to decimal). 
+It was a good chance to practice manipulating DOM objects and work with events in Javascript. //
 
 ![image](https://user-images.githubusercontent.com/79663457/134006691-59181b2a-c551-4770-845a-37adde06f7bf.png)
 
